@@ -1,0 +1,25 @@
+.photo-title {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34px;
+    line-height: 42px;
+    color: #760B73;
+}
+
+.photo-message {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 16px;
+    color: #E71515;
+}
+
+.dropzone {
+    background: white;
+    border-radius: 5px;
+    border: 1px dashed rgb(0, 135, 247);
+    border-image: none;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}

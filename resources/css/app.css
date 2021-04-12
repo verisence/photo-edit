@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
+@import url(//db.onlinewebfonts.com/c/bd317adf74e5e7e564eb61ce9926cc6d?family=Gotham);
+@import url(//db.onlinewebfonts.com/c/d31d488d2171c1668c15962fc6cf1ef7?family=Gotham+Rounded);
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
